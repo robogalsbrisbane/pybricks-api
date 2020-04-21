@@ -1,4 +1,3 @@
-Pybricks API
+PRobogals Brisbaen PyBrick Documentation
 =============
-
-Description
+Fork of PyBricks documentation to be kept up to date for use by Robogals Brisbane.
